@@ -16,7 +16,7 @@ console.log(newArr); //output =>[1, 2, 1, 2, 3, 4, 5]
 const [a, b, ...others] = arr;
 console.log(a, b, others); //output => 1 2  [3, 4, 5]
 
-// In the above code we have used rest pattern and find out that rest of "arr" elements have been collected and written doen into a new array but it's not the case in spread operator where it's just write the elements individually .
+// In the above code we have used rest pattern and find out that rest of "arr" elements have been collected and written down into a new array but it's not the case in spread operator where it's just write the elements individually .
 
 //<Three dots(...) on both sides of assignment operator>//
 
