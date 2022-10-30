@@ -2,7 +2,7 @@
 
 //<=========Rest Pattern in Destructuring===========>//
 
-// As we studied about spread operator which allows to unpack the elements from an array and rest pattern is to pack elements into an array .
+// As we studied about spread operator, which allows to unpack the elements from an array and rest pattern is to pack elements into an array .
 
 //Spread operator,because Right side of "assignment-operator(= sign)"
 const arr = [1, 2, 3, 4, 5];
